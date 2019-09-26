@@ -1,14 +1,14 @@
+html {
+  font-size: 10px;
+  background: url(./assets/background.jpg) bottom center;
+  background-size: cover;
+}
+
 body,
 html {
   margin: 0;
   padding: 0;
-  font-size: 10px;
   font-family: sans-serif;
-  overflow: hidden;
-  background: url(./assets/background.jpg) bottom center;
-  background-size: cover;
-  -webkit-filter: grayscale(100%);
-  filter: grayscale(100%);
 }
 
 .keys {
